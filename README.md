@@ -1,6 +1,8 @@
-## Hola, soy IArthurDev 
+##                   Hola, soy IArthurDev 
 
 ## Sobre mi 
+
+## Skills
 <!--
 **iArthurDev/iArthurDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
