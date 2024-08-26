@@ -5,18 +5,22 @@
 ## Sobre mi 
 
 ## Skills
-
-![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&labelColor=gray&color=yellow)
-![Static Badge](https://img.shields.io/badge/html5-gray?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=gray&color=%23E34F26)
+![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg)
+![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
 <br>
+![Static Bagde](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)
+![Static Bagde](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)<br>
 
-![Static Badge](https://img.shields.io/badge/Mongo-black?style=for-the-badge&logo=mongodb&labelColor=gray&color=green)
-![Static Badge](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white&labelColor=gray&color=blue)<br>
+![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
+![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)<br>
 
 ![Static Badge](https://img.shields.io/badge/netbeans-gray?style=for-the-badge&logo=apachenetbeanside&logoColor=white&logoSize=auto&labelColor=gray&color=teal)
-![Static Badge](https://img.shields.io/badge/eclipse-blue?style=for-the-badge&logo=eclipse&labelColor=gray&color=navy)<br>
+![Static Badge](https://img.shields.io/badge/eclipse-blue?style=for-the-badge&logo=eclipse&labelColor=gray&color=navy)
+![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)<br>
 
-![Static Badge](https://img.shields.io/badge/figma-gray?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto&labelColor=gray&color=darkred	)
+![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg)
 
 
 
