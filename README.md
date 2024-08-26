@@ -1,7 +1,7 @@
 ## Hello, i´m iArthurDev
 
 ## Sobre mi 
-https://badgen.net/badge/:subject/:status/🟣?icon=github
+https://badgen.net/badge/:subject/:status/:color?icon=github
 ## Skills
 <!--
 **iArthurDev/iArthurDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
