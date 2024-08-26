@@ -6,13 +6,18 @@
 
 ## Skills
 
-![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&labelColor=gray&color=yellow)<br>
+![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&labelColor=gray&color=yellow)
+![Static Badge](https://img.shields.io/badge/html5-gray?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=gray&color=%23E34F26)
+<br>
 
 ![Static Badge](https://img.shields.io/badge/Mongo-black?style=for-the-badge&logo=mongodb&labelColor=gray&color=green)
 ![Static Badge](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white&labelColor=gray&color=blue)<br>
 
 ![Static Badge](https://img.shields.io/badge/netbeans-gray?style=for-the-badge&logo=apachenetbeanside&logoColor=white&logoSize=auto&labelColor=gray&color=teal)
-![Static Badge](https://img.shields.io/badge/eclipse-blue?style=for-the-badge&logo=eclipse&labelColor=gray&color=navy)
+![Static Badge](https://img.shields.io/badge/eclipse-blue?style=for-the-badge&logo=eclipse&labelColor=gray&color=navy)<br>
+
+![Static Badge](https://img.shields.io/badge/figma-gray?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto&labelColor=gray&color=darkred	)
+
 
 
 
