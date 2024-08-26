@@ -11,7 +11,9 @@
 ![Static Badge](https://img.shields.io/badge/Mongo-black?style=for-the-badge&logo=mongodb&labelColor=gray&color=green)
 ![Static Badge](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white&labelColor=gray&color=blue)<br>
 
-![Static Badge](https://img.shields.io/badge/NetBeans-blue?style=for-the-badge&logo=apachenetbeanside&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/netbeans-gray?style=for-the-badge&logo=apachenetbeanside&logoColor=white&logoSize=auto&labelColor=gray&color=teal)
+![Static Badge](https://img.shields.io/badge/eclipse-blue?style=for-the-badge&logo=eclipse&labelColor=gray&color=navy)
+
 
 
 
