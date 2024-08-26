@@ -11,15 +11,15 @@
 ![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
 <br>
 ![Static Bagde](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg)
-![Static Bagde](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)<br>
-
+![Static Bagde](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
+<br>
 ![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
-![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)<br>
-
+![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
+<br>
 ![Static Badge](https://img.shields.io/badge/netbeans-gray?style=for-the-badge&logo=apachenetbeanside&logoColor=white&logoSize=auto&labelColor=gray&color=teal)
+![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
 ![Static Badge](https://img.shields.io/badge/eclipse-blue?style=for-the-badge&logo=eclipse&labelColor=gray&color=navy)
-![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)<br>
-
+<br>
 ![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg)
 
 
