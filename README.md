@@ -3,7 +3,10 @@
 </div> <br>
 
 ## Sobre mi 
-
+![Static Badge](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
+<br>
 ## Skills
 ![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 ![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
@@ -16,9 +19,9 @@
 ![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
 ![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg)
 <br>
-![Static Badge](https://img.shields.io/badge/netbeans-gray?style=for-the-badge&logo=apachenetbeanside&logoColor=white&logoSize=auto&labelColor=gray&color=teal)
+![Static Badge](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 ![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
-![Static Badge](https://img.shields.io/badge/eclipse-blue?style=for-the-badge&logo=eclipse&labelColor=gray&color=navy)
+![Static Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 <br>
 ![Static Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg)
 
