@@ -2,7 +2,8 @@
 
 ## Sobre mi 
 <p>
-  <a> https://badgen.net/badge/:subject/:status/:color?icon=github</a>
+  ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&labelColor=black&color=yellow)
+
 </p>
 ## Skills
 <!--
