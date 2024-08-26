@@ -1,4 +1,4 @@
-##                   Hola, soy IArthurDev 
+##Hello, i´m iArthurDev
 
 ## Sobre mi 
 
